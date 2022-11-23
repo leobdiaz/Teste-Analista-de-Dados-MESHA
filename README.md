@@ -24,10 +24,18 @@ Critérios avaliadas:
 ### Levantar Indicadores
 #### Responder às seguintes perguntas:
 1. Qual a escola com a maior média de notas?
+            """R: A escola com maior média de notas é a privada."""
 2. Qual o aluno com a maior média de notas e o valor dessa média?
+            """R: A pessoa com maior média de notas é o Número 200005996961 e sua média é de 858.668."""
 3. Qual a média geral?
+            """R: A média geral é de 523,9."""
 4. Qual o % de Ausentes?
+            """R: A percentagem de ausentes é de 55,2%."""
 5. Qual o número total de Inscritos?
+            """R: O número total de inscritos é de 5.783.109."""
 6. Qual a média por disciplina?
+            """R: Para Ciências Humanas é 511,2; para Linguagens é 523,8; para Ciências da Natureza é 490,4; para Matemática é 520,6; para Redacao é 573,4."""
 7. Qual a média por Sexo?
+            """R: É 531,7 para o masculino e 518,7 para o feminino."""
 8. Qual a média por Etnia?
+            """R: É 553,8 para branca, 530,6 para os não declarados, 522,1 para a amarela, 506,1 para a parda, 498,4 para a preta e 470,6 para a indígena."""
